@@ -35,7 +35,7 @@ setup(
     license='AGPLv3',
     author='Dr. Ramil Nugmanov',
     author_email='stsouko@live.ru',
-    python_requires='>=3.7.0',
+    python_requires='>=3.6.0',
     install_requires=['CGRdb>=3.1.1'],
     long_description=(Path(__file__).parent / 'README.md').open().read(),
     classifiers=['Environment :: Plugins',
