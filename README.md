@@ -1,1 +1,1 @@
-CGRdbData is Example of Data Entities for CGRdb
+CGRdbData - extension for CGRdb cartridge for additional Data Entities storing
